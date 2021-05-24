@@ -1,7 +1,7 @@
 # Intruder-Alarm-System
 Intruder detection alarm system with microcontroller
 
-#Abstract
+# Abstract
 Sistem embedded menggunakan Microcontroller 8051 dengan bahasa pemrograman assembly. Pada pengerjaan proyek kali ini, dibuat menggunakan software MCU 8051 
 untuk mendeklarasikan bahasa pemrograman assembly serta Proteus Design 8.9 yang menjadi pusat perancangan design alarm. 
 Sistem alarm penyusup ini menggunakan Sensor PIR (Passive infrared Sensor) yang akan mendeteksi adanya gelombang infrared dari objek yang mendekat dan 
